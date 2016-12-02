@@ -1,5 +1,5 @@
 <?php 
-// Get header.php and set page title
+// Get header.php and set page titles
 require_once('includes/header.php');
 $page_title = 'Home';
 ?>
