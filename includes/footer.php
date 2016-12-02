@@ -8,7 +8,8 @@
 ?>
 
 <footer>
-
+	<p class="small-text">NSF Research Experiences for Undergraduates. Engineering and Nanoscience of Materials and Device Applications in Biotechnology and Medicine. Hosted by the NanoScience Technology Center at the University of Central Florida<br>
+	<a href="mailto:andre.gesquiere@ucf.edu">Andre.Gesquiere@ucf.edu</a> or <a href="mailto:sudipta.seal@ucf.edu">Sudipta.Seal@ucf.edu</a>
 </footer>
 
 </div>

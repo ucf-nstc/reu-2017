@@ -14,7 +14,7 @@ $page_title = 'Home';
     </div>
 
 	<div class="eight columns">
-        <h4>Accommodation</h4>
+        <h4>Schedule</h4>
         <p>Coming soon</p>
     </div>
 

@@ -14,8 +14,11 @@ $page_title = 'Home';
     </div>
 
 	<div class="eight columns">
-        <h4>Accommodation</h4>
-        <p>Coming soon</p>
+        <h4>Research Projects</h4>
+        <?php 
+        // Insert this year's projects
+        require_once('files/projects.php');
+        ?>
     </div>
 
 </section>

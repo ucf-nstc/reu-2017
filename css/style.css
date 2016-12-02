@@ -95,6 +95,18 @@ footer {
 	text-align: center;
 }
 
+/* Personnel */
+.person img {
+
+	max-height: 12rem;
+}
+
+.person {
+	border-bottom: 1px solid #eee;
+	margin: 0 0 2.5rem 0;
+	padding: 1rem 0
+}
+
 /* Misc. */
 .small-text  {
 	font-size: 1.2rem;

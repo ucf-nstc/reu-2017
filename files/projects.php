@@ -1,0 +1,33 @@
+<p><i>Available projects are summarized below. REU students will be in a highly collaborative environment and learn aspects of material science engineering, bioengineering, biophotonics, biochemistry, and clinical translation.</i></p>
+
+<h6>Nanoparticle based expansion of natural killer cells for adoptive cellular cancer therapy</h6>
+<p>Students will participate in immunology and tumor biology research. Students will work on devising methods to chemically conjugate various agents (cytokines, chemokines, antibodies, fluorophores, small molecule pharmacological compounds) on plasma membrane particles (PM-particle) surface or to use extrusion methods to repackage agents inside the PM-particle. These modified forms will be characterized using physical (e.g. DLS, zeta potential) and biochemical (e.g. assays) methods and tested in culture for Natural killer (NK) cell activation efficacy. Results from cell culture will be analyzed by flow cytometry. Students will learn cell culture methods that are necessary for testing the efficacy of the NK stimulating particles. </p>
+
+<h6>Modeling of Protein Interactions in MEMS Devices and Body-on-a-Chip Systems</h6>
+<p>The REU participants will perform experimental investigations of compound adsorption in MEMS devices to understand and interpret their interactions using our new modeling tool. The students will gain experience utilizing advanced modeling tools, directly analyzing experimental results, and combining experimentation and simulation to dramatically speed development of advanced systems in biotechnology.</p>
+
+<h6>Analyzing the reactivity of cerium oxide nanoparticles with reactive nitrogen species</h6>
+<p>REU students will be involved in the synthesis and characterization (HRTEM, XPS, etc.) of Ceria nanoparticles (CeNPs). Students will test the ability of CeNPs to react with reactive nitrogen species, specifically reactions with the radical nitric oxide (NO) and with the oxidant peroxynitrite (ONOO-). The students will calculate the rates of reaction with either reactive nitrogen species (RNS) and determine the rate constants with these substrates through several coupled biochemical assays.</p>
+
+<h6>Numerical investigation of surface enhanced fluorescence of biomoleucles</h6>
+<p>Students will learn to complete calculation jobs using the queue system installed on a super computer cluster. The students will also learn the fundamental knowledge of electrodynamics theory and how to use the computer program packages, for example, the discrete dipole approximation program, the T-matrix program and the general Mie theory. The students will calculate the absorption, scattering, and extinction spectra of metal nanoparticles and then the enhanced local electric field near metal nanoparticles. They will model nanoparticles with different shapes and arranged in different configurations (one, two or many metal nanoparticles, distance dependence, size).</p>
+
+<h6>Hydrogel Nanofibers with Nanoparticles for Tissue Engineering</h6>
+<p>Students will fabricate hydrogel fibers with Ceria nanoparticles (CeNPs) and hydroxyapatite nanoparticles (HANPs). Students will perform antioxidant studies to evaluate the resistance of cells grown on CeNP hydrogel fibers against oxidative damage by H2O2 and quantify cell viability. Students will also investigate attachment and growth of bone sarcoma cells on HANP hydrogel fibers. The cells’ spreading, mineralizing of matrix, and formation of bone nodules will be studied. Students will learn to fabricate hydrogel fibers with CeNPs and HANPs, cell culture, and qualitative and quantitative data collection from cell culture through optical microscopy and assays. </p>
+
+<h6>Non-Heavy Metal Containing Quantum Dot (Qdot) Probes for Detection of Glutathione in Biological Samples</h6>
+<p>The REU students working on this project are expected to synthesize and characterize dopamine conjugated ZnS:Mn/ZnS Qdots, and perform preliminary efficacy testing in DI water, cell media and cell lysate containing Glutathione (GSH). The students will learn quantitative application of absorption and fluorescence spectroscopy. REU students will evaluate the performance of the Qdot-DOP probe for quantification of GSH concentration in GSH contaminated phosphate buffered saline (PBS, pH 7.4), cell media, and cell lysate from a cancer cell lines. </p>
+
+<h6>Engineered biocompatible flexible wearable smart wound healing patch</h6>
+<p>Students will learn to apply electrospinning to perform near field coaxial electrospinning (NFCE). They will optimize parameters such as viscosity of polymers, gauge of inner and outer needles, voltage applied and distance between the needle and collector to successfully form coaxial fibers. Students will work with 3D printing techniques integrated with NFCE to align SF-PVDF-CeNP nanofibers. Students will characterize the SF-PVDF-CeNP nanofibers using X-ray diffraction, X-ray photoelectron spectroscopy, Uv-visible spectroscopy, and additionally test the preservation of antioxidant properties of CeNPs using assays. Furthermore, students will test SF-PVDF-CeNP nanofibers in vitro and investigate efficiency in supporting endothelial cell functions, and examine their angiogenic stimuli. </p>
+
+<h6>Tunable plasmonic structures for biological sensing</h6>
+<p>REU students will learn how to develop plasmonic substrates using nanoimprinting techniques. Students will work on tuning plasmon resonances by changing the size, geometry, and pitch of nanostructured substrates. Students will be trained in UV-vis absorption spectroscopy and Raman spectroscopy to study sensing properties of the plasmonic substrates. In addition, they will get hands-on experience with Atomic Force Microscopy and Scanning Electron Microscopy.</p>
+
+<h6>Computer Science in image analysis of 3D neuroimaging of Purkinje fibers in mouse cerebellar cortex: Consequences of selective adrenergic cell ablation</h6>
+<p>The students will learn how to collect, analyze and process fluorescently-labelled brain images using advanced imaging and computing techniques to create 3D renderings for quantitative analysis of a specific group of neurons in the cerebellar cortex. REU students will work on in vitro aspect of the project.</p>
+
+<h6>Soft conducting polymer nanoparticles for efficient photoactivated cancer treatment</h6>
+<p>REU students working on this project will learn to fabricate conducting polymers nanoparticles (CP-NPs) by the reprecipitation method and will learn to attach ligands. Students will learn cell culture, and qualitative and quantitative evaluation of results by cell staining, 3D confocal microscopy, flow cytometry, and MTS viability assays.</p> 
+
+</p>

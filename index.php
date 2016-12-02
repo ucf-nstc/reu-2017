@@ -30,10 +30,11 @@ $page_title = 'Home';
         </h5>
         <ul>
             <li>10-week summer research for 10 students</li>
+            <li>$6,000 stipend</li>
             <li>Travel and Housing will be provided</li>
             <li>Social program, team projects, industry visits and more…</li>
         </ul>
-        <button class="button-primary">Apply Now</button>
+        <a href="apply.php"><button class="button-primary">Apply Now</button></a>
     </div>
 
 </section>
