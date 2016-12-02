@@ -39,7 +39,7 @@ $page_title = 'Home';
 
 </section>
 
-
+<!-- This is a test comment -->
 <?php 
 // Get footer.php
 require_once('includes/footer.php');
