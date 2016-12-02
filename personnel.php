@@ -56,8 +56,10 @@ $page_title = 'Personnel';
         <ul>
             <li>Alicja Copik (BSBM)</li>
             <li>Steve Ebert (BSBM)</li>
-            <li>Andre Gesquiere (NSTC, Chemistry, CREOL, MSE) James Hickman (NSTC, Chemistry, BSBM, MSE, CECS)</li>
-            <li>Swadeshmukul Santra (NSTC, Chemistry, MSE, BSBM) Sudipta Seal (NSTC, AMPAC, MAE, MSE)</li>
+            <li>Andre Gesquiere (NSTC, Chemistry, CREOL, MSE) </li>
+            <li>James Hickman (NSTC, Chemistry, BSBM, MSE, CECS)</li>
+            <li>Swadeshmukul Santra (NSTC, Chemistry, MSE, BSBM) </li>
+            <li>Sudipta Seal (NSTC, AMPAC, MAE, MSE)</li>
             <li>William Self (BSBM)</li>
             <li>Jayan Thomas (NSTC, CECS, CREOL)</li>
             <li>Lei Zhai (NSTC, Chemistry, MSE)</li>
