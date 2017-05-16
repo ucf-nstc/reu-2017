@@ -35,6 +35,13 @@ $page_title = 'Home';
             <li>Social program, team projects, industry visits and more…</li>
         </ul>
         <a href="apply.php"><button class="button-primary">Apply Now</button></a>
+        <br>
+        <br>
+
+        <h5>News</h5>
+        <ul>
+            <li><a href="http://today.ucf.edu/nanoscience-medical-test/">New, Old Science Combine to Make Faster Medical Test</a></li>
+        </ul>
     </div>
 
 </section>

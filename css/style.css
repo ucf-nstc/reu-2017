@@ -82,10 +82,12 @@ nav ul li {
 	padding: 0 8px;
 }
 
-ul li a {
+nav ul li a {
 	text-decoration: none;
 	color: #ddd;
 }
+
+
 
 /* Footer */
 footer {
