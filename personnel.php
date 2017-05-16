@@ -58,6 +58,7 @@ $page_title = 'Personnel';
             <li>Steve Ebert (BSBM)</li>
             <li>Andre Gesquiere (NSTC, Chemistry, CREOL, MSE) </li>
             <li>James Hickman (NSTC, Chemistry, BSBM, MSE, CECS)</li>
+            <li>Hyeran Kang (NSTC, MSE, BSBM)</li>
             <li>Swadeshmukul Santra (NSTC, Chemistry, MSE, BSBM) </li>
             <li>Sudipta Seal (NSTC, AMPAC, MAE, MSE)</li>
             <li>William Self (BSBM)</li>
