@@ -7,6 +7,11 @@
 	<a href="mailto:Sudipta.Seal@ucf.edu ">Sudipta Seal</a>
 </p>
 
+<h5>Flyer</h5>
+<p>
+	<a href="../files/flyer.pdf">REU 2017 Flyer</a>
+</p>
+
 <h5>Schedules</h5>
 <p>
 	<a href="../files/schedule.docx">REU Schedule</a>

@@ -109,6 +109,12 @@ footer {
 	padding: 1rem 0
 }
 
+/* Gallery */
+.album-thumb {
+	max-height: 200px;
+	padding: 1% 2% 1% 0;
+}
+
 /* Misc. */
 .small-text  {
 	font-size: 1.2rem;
