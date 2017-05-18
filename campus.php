@@ -15,7 +15,11 @@ $page_title = 'Campus';
 
 	<div class="eight columns">
         <h4>Campus</h4>
-        <p>Coming soon</p>
+        <h5>University of Central Florida Campus</h5>
+        <a href="./images/campus.jpg"><img class="album-thumb" src="./images/campus.jpg"></a>
+        <p>
+            <a href="http://map.ucf.edu/">To view an interactive map, click here.</a>
+        </p>
     </div>
 
 </section>
