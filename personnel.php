@@ -26,6 +26,7 @@ $page_title = 'Personnel';
                 <div class="columns nine">
                     <span>
                         <a href="http://www.nanoscience.ucf.edu/faculty/gesquiere.php">Andre J. Gesquiere</a>, Ph.D., Associate Professor<br>
+                        Director NSF REU Site<br>
                         Joint Appointments in NanoScience Technology Center, Center for Research and Education in optics and Lasers, Materials Science and Engineering and Chemistry<br><br>
                         Research Focus: Imaging and spectroscopy of nanoscale materials and biological systems
                     </span>
