@@ -14,7 +14,7 @@
 
 <h5>Schedules</h5>
 <p>
-	<a href="../files/schedule.docx">REU Schedule</a>
+	<a href="../files/schedule.pdf">REU Schedule</a>
 	<a href="../files/wac-schedule.docx">REU WAC Schedule</a>
 </p>
 
