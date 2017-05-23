@@ -19,8 +19,8 @@ require_once('includes/functions.php');
 
 	<div class="ten columns">
         <h4>Gallery</h4>
-        <h5>UCF Campus</h5>
-        <a href="./images/campus.jpg"><img class="album-thumb" src="./images/campus.jpg"></a>
+        <h5>REU 2017</h5>
+        <a href="./images/group.jpg"><img class="album-thumb" src="./images/group.jpg"></a>
         <h5>REU 2016</h5>
         <?php display_album('reu-2016/'); ?>
     </div>
