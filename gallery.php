@@ -1,4 +1,4 @@
-<?php 
+<?php
 // Get header.php and set page title
 require_once('includes/header.php');
 $page_title = 'Gallery';
@@ -22,6 +22,9 @@ require_once('includes/functions.php');
         <h5>REU 2017</h5>
         <a href="./images/group.jpg"><img class="album-thumb" src="./images/group.jpg"></a>
 
+        <h5>REU BRIDG Tour - 2017</h5>
+        <?php display_album('reu-bridg-2017/'); ?>
+
         <h5>REU Picnic - Potluck 2017</h5>
         <?php display_album('potluck-2017/'); ?>
 
@@ -31,7 +34,7 @@ require_once('includes/functions.php');
 
 </section>
 
-<?php 
+<?php
 // Get footer.php
 require_once('includes/footer.php');
 ?>
